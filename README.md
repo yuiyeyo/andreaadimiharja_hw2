@@ -1,5 +1,3 @@
-# andreaadimiharja_hw2
-
 # CSCV 337 Assignment 2
 
 This web application is designed as part of the **CSCV 337 Web Programming Assignment**.
